@@ -60,6 +60,7 @@
 				</li>
 
 				<li class="nav-item"><router-link to='/page7' class="nav-link">Page7</router-link></li>
+				<li class="nav-item"><router-link to='/page8' class="nav-link">Page8</router-link></li>
 
 				<!-- PAYS -->
 				<li class="nav-item"><router-link to='/pays' class="nav-link">Pays</router-link></li>
